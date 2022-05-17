@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/tcp.dir/main.cpp.o CMakeFiles/tcp.dir/tcp.cpp.o  -o tcp -lpthread 

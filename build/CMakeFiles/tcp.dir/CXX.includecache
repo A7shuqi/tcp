@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/NetTcp.h
+
+/home/zk/Exersice/tcp/include/NetTcp.h
+
+/home/zk/Exersice/tcp/main.cpp
+iostream
+-
+include/NetTcp.h
+/home/zk/Exersice/tcp/include/NetTcp.h
+
+/home/zk/Exersice/tcp/tcp.cpp
+NetTcp.h
+/home/zk/Exersice/tcp/NetTcp.h
+sys/socket.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+stdio.h
+-
+pthread.h
+-
+unistd.h
+-
+string.h
+-
+

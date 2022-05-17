@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/zk/Exersice/tcp/build",
+  "command": "/usr/bin/g++   -I/home/zk/Exersice/tcp/include  -g   -o CMakeFiles/tcp.dir/main.cpp.o -c /home/zk/Exersice/tcp/main.cpp",
+  "file": "/home/zk/Exersice/tcp/main.cpp"
+},
+{
+  "directory": "/home/zk/Exersice/tcp/build",
+  "command": "/usr/bin/g++   -I/home/zk/Exersice/tcp/include  -g   -o CMakeFiles/tcp.dir/tcp.cpp.o -c /home/zk/Exersice/tcp/tcp.cpp",
+  "file": "/home/zk/Exersice/tcp/tcp.cpp"
+}
+]
