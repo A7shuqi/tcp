@@ -7,7 +7,7 @@
 #include<unistd.h>
 #include<string.h>
 
-NetTcp::NetTcp(/* args */)
+NetTcp::NetTcp(/* args */) 
 {
     m_hSocket = -1 ;
      m_nLocalAddress = 0;
