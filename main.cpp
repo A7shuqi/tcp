@@ -1,6 +1,6 @@
 #include <iostream>
 #include"include/NetTcp.h"
-
+//一个小的tcpDome
 
 int main(int, char**) 
 {
